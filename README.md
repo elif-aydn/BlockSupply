@@ -1,4 +1,4 @@
-## 🧾 BlockSupply – Akıllı Kontrat Tabanlı E-Pazaryeri ve Tedarik Zinciri Uygulaması
+##  BlockSupply – Akıllı Kontrat Tabanlı E-Pazaryeri ve Tedarik Zinciri Uygulaması
 
 **BlockSupply**, Ethereum blokzinciri üzerinde çalışan, *üretici*, *tüketici* ve *nakliyeci* rollerine sahip kullanıcıların merkeziyetsiz biçimde etkileşime girebildiği bir *e-pazaryeri ve tedarik zinciri platformudur*.
 
@@ -6,7 +6,7 @@ Bu proje, geleneksel pazar yerlerinde yaşanan güven, izlenebilirlik ve süreç
 
 
 
-### 🚀 Özellikler
+###  Özellikler
 
 **Rol Bazlı Giriş ve İşlem Yetkilendirmesi**
 
@@ -43,7 +43,7 @@ Modern Frontend
   * Kullanıcı dostu rol seçimi ve yönlendirme
 
 
-### 🛠️ Kullanılan Teknolojiler
+###  Kullanılan Teknolojiler
 
 | Katman            | Teknoloji            |
 | ----------------- | -------------------- |
