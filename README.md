@@ -55,13 +55,7 @@ Modern Frontend
 
 
 
-📌 Proje Durumu
 
-✅ Akıllı kontratlar tamamlandı
-✅ Rol bazlı iş akışları çalışır durumda
-✅ Tüm dashboard'lar (Producer, Buyer, Shipper) test edildi
-🛠️ UI geliştirmeleri devam etmekte
-🚀 Testnet deploy ve demo videosu aşamasına geçilebilir
 
 
 
